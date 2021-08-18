@@ -9,5 +9,5 @@ user_savings = user_earnings / 5
 output = round(user_savings, 2)
 
 
-print("your monthly earnings are: £", user_earnings)
-print("your monthly savings should be: £", output)
+print("your monthly earnings are: £",user_earnings)
+print("your monthly savings should be: £",output)
